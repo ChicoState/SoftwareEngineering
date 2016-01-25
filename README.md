@@ -51,11 +51,11 @@ Multiple students will contribute to the same project. However, each student wil
 
 Resources:
 
-[BossyUI](https://github.com/buildcom/BossyUI)
-[MouseTrap](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap)
+* [BossyUI](https://github.com/buildcom/BossyUI)
+* [MouseTrap](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap)
 
 Exploring other FOSS projects:
-[FOSS Projects Interested in Mentoring Students/Educators](http://teachingopensource.org/index.php/FOSS_Mentor_Projects#FOSS_Projects_Interested_in_Mentoring_Students.2FEducators)
-[HFOSS Communities](http://foss2serve.org/index.php/HFOSS_Communities)
-[OpenHub](https://www.openhub.net/)
+* [FOSS Projects Interested in Mentoring Students/Educators](http://teachingopensource.org/index.php/FOSS_Mentor_Projects#FOSS_Projects_Interested_in_Mentoring_Students.2FEducators)
+* [HFOSS Communities](http://foss2serve.org/index.php/HFOSS_Communities)
+* [OpenHub](https://www.openhub.net/)
 
