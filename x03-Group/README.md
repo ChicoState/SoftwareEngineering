@@ -38,6 +38,8 @@ The project reports bugs [here, using bugzilla](#)
 
 *[Rushi Thakkar](https://github.com/trushi) - Wiiling to  resolve issues regarding autocomplete, navigation and documentation for graph and form.  
 
+*[Satyajeet Swamy](https://github.com/SatyajeetSwamy) - Interested in documentation via YUIDocs and also work on input, calendar plugin.
+
 ## KDevelop
 
 ## MouseTrap
