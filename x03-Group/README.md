@@ -10,7 +10,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 * [Person A](#) - Interested in finishing the development for plugin XYZ
 * [Person B](#) - Interested in building a more comprehensive test suite
-* [Priyanka Chorida](https://github.com/pchordia15/SoftwareEngineering) - Interested in resolving the long list of bugs
+* [Priyanka Chordia](https://github.com/pchordia15/SoftwareEngineering) - Interested in resolving the long list of bugs
 
 ### Communication
 
