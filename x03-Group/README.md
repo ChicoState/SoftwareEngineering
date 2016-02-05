@@ -28,6 +28,8 @@ The project reports bugs [here, using bugzilla](#)
 
 ## BossyUI
 
+*[Pritesh Jagani](https://github.com/priteshjagani) - Interested in finishing documentation on the www.bossyui.com and also work on input, combobox, calendar plugin. Might try to solve the bug of Navigation plugin (CSS) 
+
 ## KDevelop
 
 ## MouseTrap
