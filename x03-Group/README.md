@@ -29,9 +29,9 @@ The project reports bugs [here, using bugzilla](#)
 
 **Student contributors**:
 
-* [snanda](https://github.com/sagarnanda) - Interested in finishing the development for hadoop
-* [Person B](#) - Interested in building a more comprehensive test suite
-* [Person C](#) - Interested in resolving the long list of bugs
+* [Person A](#) - Interested in finishing the development for plugin XYZ
+* [Abhinav Gupta](#) - Interested in building a more comprehensive test suite
+* [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
