@@ -4,13 +4,13 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ## Example Project
 
-**Akka**: [Developer Page](http://akka.io), [Repo](https://github.com/akka/akka), [Documentation Wiki](#https://en.wikipedia.org/wiki/Akka_(toolkit))
+**Name of Project**: [Developer page](#), [Repo](#), [Documentation Wiki](#)
 
 **Student contributors**:
 
 * [Person A](#) - Interested in finishing the development for plugin XYZ
 * [Person B](#) - Interested in building a more comprehensive test suite
-* [Priyanka Chordia](https://github.com/pchordia15/SoftwareEngineering) - Interested in resolving the long list of bugs
+* [Person C](#) - Interested in resolving the long list of bugs
 
 ### Communication
 
