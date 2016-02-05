@@ -1,6 +1,6 @@
 # Group Project Scavenger Hunt
 
-Together, as a group, you will fork this repo and collaborate to summarize some key aspects of your project. Once your group has completed the description for your project, create a pull request.
+Together, as a group, you will fork this repo and collaborate to summarize some key aspects of your project. Each member of the group should edit part of the README and the group should collaborate together to merge your contributions. Once your group has completed the description for your project, create a pull request.
 
 ## Example Project
 
