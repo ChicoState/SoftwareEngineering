@@ -33,6 +33,7 @@ The project reports bugs [here, using bugzilla](#)
 * [Abhinav Gupta](#) - Interested in building a more comprehensive test suite and resolving the long list of bugs
 * [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
 * [Praveen Reddy](#) - Interested in resolving the long list of bugs
+* [Vijay Parmar](https://github.com/vsparmar) - Development and fixing bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 
