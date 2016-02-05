@@ -4,7 +4,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ## Example Project
 
-**Akka**: [http://akka.io](#), [https://github.com/akka/akka](#), [https://en.wikipedia.org/wiki/Akka_(toolkit)](#)
+**Akka**: [Developer Page](http://akka.io), [https://github.com/akka/akka](#), [https://en.wikipedia.org/wiki/Akka_(toolkit)](#)
 
 **Student contributors**:
 
