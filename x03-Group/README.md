@@ -32,7 +32,7 @@ The project reports bugs [here, using bugzilla](#)
 * [Sagar Nanda](https://github.com/sagarnanda) - Interested in finishing the development and resolving the long list of bugs
 * [Abhinav Gupta](https://github.com/abhi951990) - Interested in building a more comprehensive test suite and resolving the long list of bugs
 * [Niranjan Molkeri](https://github.com/nmolkeri) - Interested in making the Machine learning algorithms more efficent.
-* [Praveen Reddy](#) - Interested in resolving the long list of bugs
+* [Praveen Reddy](https://github.com/praveendareddy21) - Interested in resolving the long list of bugs
 * [Amit Shinde](https://github.com/amits83) - Interested in resolving the long list of bugs
 * [Vijay Parmar](https://github.com/vsparmar) - Interested in Development and fixing bugs
 
