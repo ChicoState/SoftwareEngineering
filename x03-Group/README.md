@@ -36,6 +36,8 @@ The project reports bugs [here, using bugzilla](#)
 
 *[Tejas Patil](https://github.com/tpatil2) - Interested in improving User interface and bug fixing
 
+*[Rushi Thakkar](https://github.com/trushi) - Wiiling to  resolve issues regarding autocomplete, navigation and documentation for graph and form.  
+
 ## KDevelop
 
 ## MouseTrap
