@@ -35,7 +35,7 @@ The project reports bugs [here, using bugzilla](#)
 * [Praveen Reddy](#) - Interested in resolving the long list of bugs
 * [Amit Shinde](https://github.com/amits83) - Interested in resolving the long list of bugs
 * [Vijay Parmar](https://github.com/vsparmar) - Interested in Development and fixing bugs
-* [Person C](#) - Interested in resolving the long list of bugs
+
 
 ### Communication
 
