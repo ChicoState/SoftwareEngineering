@@ -33,7 +33,7 @@ The project reports bugs [here, using bugzilla](#)
 * [Abhinav Gupta](https://github.com/abhi951990) - Interested in building a more comprehensive test suite and resolving the long list of bugs
 * [Niranjan Molkeri](https://github.com/nmolkeri) - Interested in making the Machine learning algorithms more efficent.
 * [Praveen Reddy](#) - Interested in resolving the long list of bugs
-* [Person C](#) - Interested in resolving the long list of bugs
+* [Amit Shinde](https://github.com/amits83)) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 
 ### Communication
