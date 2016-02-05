@@ -32,6 +32,8 @@ The project reports bugs [here, using bugzilla](#)
 
 *[Luis Cheung](https://github.com/lcheung90) - Documentation, debugging, documentation
 
+*[Rahul Gaikwad](https://github.com/rahulhgaikwad) - Documentation, Git Manipulations, Coding, Debugging
+
 ## KDevelop
 
 ## MouseTrap
