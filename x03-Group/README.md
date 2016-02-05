@@ -32,7 +32,7 @@ The project reports bugs [here, using bugzilla](#)
 * [Sagar Nanda](https://github.com/sagarnanda) - Interested in finishing the development for plugin XYZ
 * [Abhinav Gupta](#) - Interested in building a more comprehensive test suite
 * [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
-* [Person C](#) - Interested in resolving the long list of bugs
+* [Praveen Reddy](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 
