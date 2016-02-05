@@ -25,7 +25,7 @@ The project reports bugs [here, using bugzilla](#)
 ## Akka
 
 ## Apache Spark
-**Apache Spark**: [Spark](http://spark.apache.org), [Repo](https://github.com/apache/spark), [Documentation Wiki](#)
+**Apache Spark**: [Spark](http://spark.apache.org), [Repo](https://github.com/apache/spark), [Documentation Wiki](https://en.wikipedia.org/wiki/Apache_Spark)
 
 **Student contributors**:
 
