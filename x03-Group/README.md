@@ -44,8 +44,7 @@ For updates and general communication, we will subscribe to [the listserv](#).
 
 ### Bug Reporting
 
-The project reports bugs [here, using bugzilla](#)
-
+Apache Spark Issues - [Issues](https://issues.apache.org/jira/browse/SPARK/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel)
 
 ## BossyUI
 
