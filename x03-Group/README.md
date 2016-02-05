@@ -29,8 +29,8 @@ The project reports bugs [here, using bugzilla](#)
 
 **Student contributors**:
 
-* [Sagar Nanda](https://github.com/sagarnanda) - Interested in finishing the development for plugin XYZ
-* [Abhinav Gupta](#) - Interested in building a more comprehensive test suite
+* [Sagar Nanda](https://github.com/sagarnanda) - Interested in finishing the development and resolving the long list of bugs
+* [Abhinav Gupta](#) - Interested in building a more comprehensive test suite and resolving the long list of bugs
 * [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
 * [Praveen Reddy](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
