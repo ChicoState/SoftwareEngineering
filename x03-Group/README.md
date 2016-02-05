@@ -31,7 +31,7 @@ The project reports bugs [here, using bugzilla](#)
 
 * [Person A](#) - Interested in finishing the development for plugin XYZ
 * [Person B](#) - Interested in building a more comprehensive test suite
-* [Person C](#) - Interested in resolving the long list of bugs
+* [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
