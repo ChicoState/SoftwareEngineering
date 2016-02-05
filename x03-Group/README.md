@@ -14,7 +14,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ### Communication
 
-For help we will go to [the IRC channel](#). 
+Use channel - #apache-spark on the Freenode link - [the IRC channel](https://webchat.freenode.net/). 
 
 For updates and general communication, we will subscribe to [the listserv](#).
 
