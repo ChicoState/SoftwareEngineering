@@ -25,7 +25,7 @@ The project reports bugs [here, using bugzilla](#)
 ## Akka
 
 ## Apache Spark
-**Name of Project**: [Developer page](#), [Repo](#), [Documentation Wiki](#)
+**Name of Project**: [Developer page](#), [Repo](https://github.com/apache/spark), [Documentation Wiki](#)
 
 **Student contributors**:
 
@@ -33,7 +33,6 @@ The project reports bugs [here, using bugzilla](#)
 * [Abhinav Gupta](#) - Interested in building a more comprehensive test suite and resolving the long list of bugs
 * [Niranjan Molkeri](#) - Interested in resolving the long list of bugs
 * [Praveen Reddy](#) - Interested in resolving the long list of bugs
-* [Vijay Parmar](https://github.com/vsparmar) - Development and fixing bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 * [Person C](#) - Interested in resolving the long list of bugs
 
