@@ -10,16 +10,16 @@
 * [Gangadhar Yelwande](https://github.com/gyelwande) -
 ### Communication
 
-For help we will go to [the IRC channel](). 
-
 For updates and general communication, we will subscribe to [the Slack channel](https://rethinkdb-chicostate.slack.com).
 
+For documentation or text related queries, use [Google Sheet](https://docs.google.com/a/mail.csuchico.edu/document/d/1xhe0akOSdFhYTqRnk2zKf4GVXuMCjwAc0pumST6Inbk/edit?usp=sharing)
 
 ### Bug Reporting
 
 The project reports bugs [here, using GitHub Issue Tracking](https://github.com/rethinkdb/rethinkdb/issues)
 
 ## RethinkDB
+
 What is RethinkDB?
 
 Open-source database for building realtime web applications
