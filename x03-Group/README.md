@@ -44,6 +44,8 @@ Apache Spark IRC Channel - use channel #apache-spark [Link](https://webchat.free
 Slack channel for group members - [Slack](https://csuspark.slack.com/messages/general/)
 
 Stackover flow forum - [apache-spar](http://stackoverflow.com/questions/tagged/apache-spark)
+
+Apache spark - How to contribute - [Contribution](https://cwiki.apache.org/confluence/display/SPARK/Contributing+to+Spark)
 ### Bug Reporting
 
 Apache Spark Issues - [Issues](https://issues.apache.org/jira/browse/SPARK/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel)
