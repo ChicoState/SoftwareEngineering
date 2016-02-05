@@ -34,6 +34,8 @@ The project reports bugs [here, using bugzilla](#)
 
 *[Rahul Gaikwad](https://github.com/rahulhgaikwad) - Documentation, Git Manipulations, Coding, Debugging
 
+*[Tejas Patil](https://github.com/tpatil2) - Interested in improving User interface and bug fixing
+
 ## KDevelop
 
 ## MouseTrap
