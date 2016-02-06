@@ -29,7 +29,7 @@ The project reports bugs [here, using bugzilla](#)
 **Student contributors**:
 
 * [Meghana](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation. 
-* [Pooja]() -
+* [Pooja](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation. 
 * [Priyanka]() -
 
 ### Communication
