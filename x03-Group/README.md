@@ -14,7 +14,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ### Communication
 
-For help we will go to [the IRC channel](#).
+For help we will go to [the IRC channel](#). 
 
 For updates and general communication, we will subscribe to [the listserv](#).
 
