@@ -28,9 +28,9 @@ The project reports bugs [here, using bugzilla](#)
 
 **Student contributors**:
 
-* [Meghana](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation. 
-* [Pooja](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation. 
-* [Priyanka]() -
+* [Meghana Mancheela](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation. 
+* [Pooja Shende](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation. 
+* [Priyanka Chordia](https://github.com/pchordia15) - Interested in resolving the long list of bugs and contributing to stack overflow.
 
 ### Communication
 
