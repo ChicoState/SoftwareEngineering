@@ -4,10 +4,11 @@
 
 **Student contributors**:
 
-* [Diney Wankhede](https://github.com/dineyw23) - Interested in finishing the development for plugin XYZ
+* [Diney Wankhede](https://github.com/dineyw23) - Interested in deploying an application which uses RethinkDB, unit testing of Ruby driver deployment on Mac OS X, documentation and resolving with Ruby driver issues and JSON issues.
 * [Amey Deshpande](https://github.com/ameydeshpande) - Interested in building a more comprehensive test suite
 * [Rohan Chordiya](https://github.com/rchordiya) - Interested in resolving the long list of bugs
-* [Gangadhar Yelwande](https://github.com/gyelwande) -
+* [Gangadhar Yelwande](https://github.com/gyelwande) - 
+
 ### Communication
 
 For updates and general communication, we will subscribe to [the Slack channel](https://rethinkdb-chicostate.slack.com).
