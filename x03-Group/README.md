@@ -24,6 +24,24 @@ The project reports bugs [here, using bugzilla](#)
 
 ## Akka
 
+**Name of Project**: [akka](http://akka.io/), [Repo](https://github.com/akka/akka), [Documentation](http://akka.io/docs/?_ga=1.155553915.1578712860.1454191872)
+
+**Student contributors**:
+
+* [Meghana Mancheela](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation. 
+* [Pooja Shende](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation. 
+* [Priyanka Chordia](https://github.com/pchordia15) - Interested in resolving the long list of bugs and contributing to stack overflow.
+
+### Communication
+
+For help we will go to [the IRC channel](https://gitter.im/akka/dev).
+
+For updates and general communication, we will subscribe to [the listserv](https://gitter.im/akka/dev)
+
+### Bug Reporting
+
+The project reports bugs [here, using Github Issues](https://github.com/akka/akka/issues).
+
 ## Apache Spark
 **Apache Spark**: [Spark](http://spark.apache.org), [Repo](https://github.com/apache/spark), [Documentation Wiki](https://cwiki.apache.org/confluence/display/SPARK/Wiki+Homepage)
 
