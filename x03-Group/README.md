@@ -14,7 +14,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ### Communication
 
-For help we will go to [the IRC channel](#). 
+Use channel - #apache-spark on the Freenode link - [the IRC channel](https://webchat.freenode.net/). 
 
 For updates and general communication, we will subscribe to [the listserv](#).
 
@@ -25,6 +25,30 @@ The project reports bugs [here, using bugzilla](#)
 ## Akka
 
 ## Apache Spark
+**Apache Spark**: [Spark](http://spark.apache.org), [Repo](https://github.com/apache/spark), [Documentation Wiki](https://cwiki.apache.org/confluence/display/SPARK/Wiki+Homepage)
+
+**Student contributors**:
+
+* [Sagar Nanda](https://github.com/sagarnanda) - Interested in finishing the development and resolving the long list of bugs
+* [Abhinav Gupta](https://github.com/abhi951990) - Interested in building a more comprehensive test suite and resolving the long list of bugs
+* [Niranjan Molkeri](https://github.com/nmolkeri) - Interested in making the Machine learning algorithms more efficent.
+* [Praveen Reddy](https://github.com/praveendareddy21) - Interested in Development of features and fixing bugs.
+* [Amit Shinde](https://github.com/amits83) - Interested in resolving the long list of bugs
+* [Vijay Parmar](https://github.com/vsparmar) - Interested in Development and fixing bugs
+
+
+### Communication
+
+Apache Spark IRC Channel - use channel #apache-spark [Link](https://webchat.freenode.net/) 
+
+Slack channel for group members - [Slack](https://csuspark.slack.com/messages/general/)
+
+Stackover flow forum - [apache-spar](http://stackoverflow.com/questions/tagged/apache-spark)
+
+Apache spark - How to contribute - [Contribution](https://cwiki.apache.org/confluence/display/SPARK/Contributing+to+Spark)
+### Bug Reporting
+
+Apache Spark Issues - [Issues](https://issues.apache.org/jira/browse/SPARK/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel)
 
 ## BossyUI
 
