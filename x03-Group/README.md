@@ -100,7 +100,7 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 **Student contributors**:
 
 * [Akshay Jain](https://github.com/akshjain83) - Interested in plugin or extensions development, documentation, task completion and bug reporting for mozilla.
-
+* [Ashwin Patil](https://github.com/Ashwin02) - Interested in testing and resolving the existing bugs.
 
 ### Communication
 
