@@ -34,7 +34,7 @@ The project reports bugs [here, using bugzilla](#)
 
 Akshay Bembalkar - Coding and bug fixing.
 [Person B](#) - Interested in building a more comprehensive test suite
-[Person C](#) - Interested in resolving the long list of bugs
+Kunal Bhardwaj - Testing and Documentation. 
 
 For help we will go to irc://irc.gnome.org/mousetrap
 
