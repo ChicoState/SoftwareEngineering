@@ -32,6 +32,15 @@ The project reports bugs [here, using bugzilla](#)
 
 ## MouseTrap Documentation
 
+Akshay Bembalkar - Coding and bug fixing.
+[Person B](#) - Interested in building a more comprehensive test suite
+[Person C](#) - Interested in resolving the long list of bugs
+
+For help we will go to irc://irc.gnome.org/mousetrap
+
+For updates and general communication, we will subscribe to https://slack.com
+
+
 ## Mozilla
 
 ## RethinkDB
