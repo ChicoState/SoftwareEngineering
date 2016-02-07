@@ -104,6 +104,7 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 * [Akshay Gore] (https://github.com/akshaygore06) - Interested in building a more comprehensive test suite,bug reporting,development and fixing bugs.
 * [Vikrantsinh Karande](https://github.com/vkarande) - Interested in Developing,Documentation,testing and resolving the bugs.
 * [Arjun Arun Kumar](https://github.com/arjunarunkumar) - Interested in Testing and Documentaion.
+* [Kshitija Karkar] (https://github.com/kshitijakarkar) - Interested in building a more comprehensive test suite,bug reporting.
 
 ### Communication
 
