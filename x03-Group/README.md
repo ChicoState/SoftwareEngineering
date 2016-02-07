@@ -30,7 +30,7 @@ The project reports bugs [here, using bugzilla](#)
 
 ## KDevelop
 
-## MouseTrap
+## MouseTrap Documentation
 
 ## Mozilla
 
