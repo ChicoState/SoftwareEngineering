@@ -101,7 +101,9 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 
 * [Akshay Jain](https://github.com/akshjain83) - Interested in plugin or extensions development, documentation, task completion and bug reporting for mozilla.
 * [Ashwin Patil](https://github.com/Ashwin02) - Interested in testing and resolving the existing bugs.
-* [Akshay Gore] (https://github.com/akshaygore06) - Interested in building a more comprehensive test suite,bug reporting,development and fixing bugd\s.
+* [Akshay Gore] (https://github.com/akshaygore06) - Interested in building a more comprehensive test suite,bug reporting,development and fixing bugs.
+* [Vikrantsinh Karande](https://github.com/vkarande) - Interested in Developing,Documentation,testing and resolving the bugs.
+* [Arjun Arun Kumar](https://github.com/arjunarunkumar) - Interested in Testing and Documentaion.
 
 ### Communication
 
