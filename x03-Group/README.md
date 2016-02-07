@@ -34,7 +34,7 @@ The project reports bugs [here, using bugzilla](#)
 **MouseTrap**: [Developer Page](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap), [Repo](https://git.gnome.org/browse/mousetrap/), [Documentation](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap)
 
 **Student contributors**:
-* [Akshay Bembalkar](https://github.com/akshaybembalkar) - Coding and bug fixing.
+* [Akshay Bembalkar](https://github.com/akshaybembalkar) - Development and bug fixing.
 * [Parag Agrawal](http://github.com/pagrawal1407) - Interested in building a more comprehensive test suite.
 * [Kunal Bhardwaj](https://github.com/kunal006956665) - Testing and Documentation. 
 
