@@ -118,4 +118,3 @@ Slack Channel for Group - [Chico State Mozilla](https://chicostatemozilla.slack.
 The project reports bugs [here, using bugzilla](https://bugzilla.mozilla.org/)
 
 ## RethinkDB
-Interested in building a more comprehensive test suite
