@@ -1,6 +1,6 @@
 
 
-**Name of Project**: [Developer page](https://www.rethinkdb.com/), [GitHub Repo](https://github.com/rethinkdb/rethinkdb), [Documentation Wiki]()
+**RethinkDB**: [Developer page](https://www.rethinkdb.com/), [GitHub Repo](https://github.com/rethinkdb/rethinkdb), [Documentation Wiki]()
 
 **Student contributors**:
 
@@ -19,11 +19,3 @@ For documentation or text related queries, use [Google Sheet](https://docs.googl
 
 The project reports bugs [here, using GitHub Issue Tracking](https://github.com/rethinkdb/rethinkdb/issues)
 
-## RethinkDB
-
-What is RethinkDB?
-
-Open-source database for building realtime web applications
-NoSQL database that stores schemaless JSON documents
-Distributed database that is easy to scale
-High availability database with automatic failover and robust fault tolerance
