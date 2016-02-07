@@ -95,5 +95,26 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 ## MouseTrap
 
 ## Mozilla
+**Mozilla**: [Mozilla Foundation](https://www.mozilla.org/en-US/), [Wiki](https://wiki.mozilla.org/Main_Page), [Repo](https://github.com/mozilla)
+
+**Student contributors**:
+
+* [Akshay Jain](https://github.com/akshjain83) - Interested in plugin or extensions development, documentation, task completion and bug reporting for mozilla.
+* [Ashwin Patil](https://github.com/Ashwin02) - Interested in testing and resolving the existing bugs.
+* [Akshay Gore] (https://github.com/akshaygore06) - Interested in building a more comprehensive test suite,bug reporting,development and fixing bugs.
+* [Vikrantsinh Karande](https://github.com/vkarande) - Interested in Developing,Documentation,testing and resolving the bugs.
+* [Arjun Arun Kumar](https://github.com/arjunarunkumar) - Interested in Testing and Documentaion.
+* [Kshitija Karkar] (https://github.com/kshitijakarkar) - Interested in building a more comprehensive test suite,bug reporting.
+* [Siddharth Shah] (https://github.com/siddharthshah012) - Interested in development and documentation.
+
+### Communication
+
+Mozilla Foundation - The IRC Channel [Link](https://wiki.mozilla.org/IRC) 
+
+Slack Channel for Group - [Chico State Mozilla](https://chicostatemozilla.slack.com)
+
+### Bug Reporting
+
+The project reports bugs [here, using bugzilla](https://bugzilla.mozilla.org/)
 
 ## RethinkDB
