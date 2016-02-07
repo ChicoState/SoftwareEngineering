@@ -101,6 +101,7 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 
 * [Akshay Jain](https://github.com/akshjain83) - Interested in plugin or extensions development, documentation, task completion and bug reporting for mozilla.
 * [Ashwin Patil](https://github.com/Ashwin02) - Interested in testing and resolving the existing bugs.
+* [Akshay Gore] (https://github.com/akshaygore06) - Interested in building a more comprehensive test suite,bug reporting,development and fixing bugd\s.
 
 ### Communication
 
@@ -113,3 +114,4 @@ Slack Channel for Group - [Chico State Mozilla](https://chicostatemozilla.slack.
 The project reports bugs [here, using bugzilla](https://bugzilla.mozilla.org/)
 
 ## RethinkDB
+Interested in building a more comprehensive test suite
