@@ -30,7 +30,7 @@ The project reports bugs [here, using bugzilla](#)
 
 ## KDevelop
 
-## MouseTrap Documentation
+## MouseTrap: [Developer Page](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap), [Repo](https://git.gnome.org/browse/mousetrap/), [Wiki](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap#What_is_MouseTrap.3F)
 
 ## Mozilla
 
