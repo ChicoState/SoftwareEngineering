@@ -7,7 +7,7 @@
 * [Diney Wankhede](https://github.com/dineyw23) - Interested in deploying an application which uses RethinkDB, unit testing of Ruby driver deployment on Mac OS X, documentation and resolving Ruby driver issues and JSON issues.
 * [Amey Deshpande](https://github.com/ameydeshpande) - Interested in building a more comprehensive test suite
 * [Rohan Chordiya](https://github.com/rchordiya) - Interested in resolving the long list of bugs,Documentation and testing.
-* [Gangadhar Yelwande](https://github.com/gyelwande) - 
+* [Gangadhar Yelwande](https://github.com/gyelwande) - Interested in enhancing, resolving existing bugs and preparing unit test cases and test the application using these cases
 
 ### Communication
 
