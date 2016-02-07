@@ -32,11 +32,11 @@ The project reports bugs [here, using bugzilla](#)
 
 ## MouseTrap: [Developer Page](https://wiki.gnome.org/action/show/Projects/MouseTrap?action=show&redirect=MouseTrap), [Repo](https://git.gnome.org/browse/mousetrap/)
 
-* [Akshay Bembalkar](#) - Coding and bug fixing.
-* [Parag Agrawal](http://github.com/pagrawal1407) - Interested in building a more comprehensive test suite
-* [Kunal Bhardwaj](#) - Testing and Documentation. 
+* [Akshay Bembalkar](https://github.com/akshaybembalkar) - Coding and bug fixing.
+* [Parag Agrawal](http://github.com/pagrawal1407) - Interested in building a more comprehensive test suite.
+* [Kunal Bhardwaj](https://github.com/kunal006956665) - Testing and Documentation. 
 
-* For help we will go to [irc channel](irc://irc.gnome.org/mousetrap)
+* For help we will go to [the IRC channel](https://wiki.gnome.org/Projects/MouseTrap/Meetings)
 
 * For updates and general communication, we will subscribe to [Slack](https://slack.com)
 
