@@ -14,7 +14,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 ### Communication
 
-Use channel - #apache-spark on the Freenode link - [the IRC channel](https://webchat.freenode.net/). 
+Use channel - #apache-spark on the Freenode link - [the IRC channel](https://webchat.freenode.net/).
 
 For updates and general communication, we will subscribe to [the listserv](#).
 
@@ -28,8 +28,8 @@ The project reports bugs [here, using bugzilla](#)
 
 **Student contributors**:
 
-* [Meghana Mancheela](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation. 
-* [Pooja Shende](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation. 
+* [Meghana Mancheela](https://github.com/meghanamancheela) - Interested in development of different modules, interested in building more comprehensive test suite and reporting bugs, documentation.
+* [Pooja Shende](https://github.com/poojadshende) - Interested in resloving bugs, finishing the development for particular module, and documentation.
 * [Priyanka Chordia](https://github.com/pchordia15) - Interested in resolving the long list of bugs and contributing to stack overflow.
 
 ### Communication
@@ -57,7 +57,7 @@ The project reports bugs [here, using Github Issues](https://github.com/akka/akk
 
 ### Communication
 
-Apache Spark IRC Channel - use channel #apache-spark [Link](https://webchat.freenode.net/) 
+Apache Spark IRC Channel - use channel #apache-spark [Link](https://webchat.freenode.net/)
 
 Slack channel for group members - [Slack](https://csuspark.slack.com/messages/general/)
 
@@ -72,7 +72,7 @@ Apache Spark Issues - [Issues](https://issues.apache.org/jira/browse/SPARK/?sele
 
 **Student Contributors**:
 
-* [Pritesh Jagani](https://github.com/priteshjagani) - Interested in finishing documentation on the http://www.bossyui.io/ and also work on input, combobox, calendar plugin. Might try to fix Navigation plugin (CSS) bug 
+* [Pritesh Jagani](https://github.com/priteshjagani) - Interested in finishing documentation on the http://www.bossyui.io/ and also work on input, combobox, calendar plugin. Might try to fix Navigation plugin (CSS) bug
 
 * [Luis Cheung](https://github.com/lcheung90) - Documentation, debugging and bug fixing
 
@@ -92,6 +92,28 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 
 ## KDevelop
 
+[KDevelop](https://www.kde.org/), [Source Code](http://code.openhub.net/project?pid=&ipid=303127&fp=303127&mp&projSelected=true&filterChecked), [Documentation Wiki](https://docs.kde.org/trunk5/en/extragear-kdevelop/kdevelop/index.html), [Forum](https://forum.kde.org/viewforum.php?f=218&sid=deab43f23b975d1faca6a80ac4d9c48a)
+
+**Student contributors**:
+
+* [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing.
+* [Akshay Joshi](https://github.com/joshiakshay91) - Interested in bug fixing, if possible contributing to adding any feature.
+* [Chaitanya Srinivas Ponnapalli](https://github.com/chaitanyasponnapalli) - Interested in resolving long list of bugs and development activities.
+* [Pratik Gundlupet Venkatesh](https://github.com/pgundlupetvenkatesh) - Interested in logging, resolving and Verifying bugs and implementing new or enhancing existing features.
+* [Priyanka Bandaru](https://github.com/priyankabandaru) - Interested in resolving bugs and also contribution in adding functionalities.
+* [Rahul Shinde](https://github.com/rahulvshinde) - Interested in fixing the long list of bugs.
+* [Sumeet Tulsani](https://github.com/stulsani) - Interested in resolving the long list of bugs.
+
+### Communication
+
+For help we will go to [KDevelope List of IRC channels](https://userbase.kde.org/IRC_Channels/en).
+
+For updates and general communication, we will subscribe to [KDevelop Developer Mailinglist](https://mail.kde.org/mailman/listinfo/kdevelop-devel).
+
+### Bug Reporting
+
+The project reports bugs [KDE Bugtracking System](https://bugs.kde.org/)
+
 ## MouseTrap
 
 ## Mozilla
@@ -109,7 +131,7 @@ The project reports bugs [here](https://github.com/buildcom/BossyUI/issues)
 
 ### Communication
 
-Mozilla Foundation - The IRC Channel [Link](https://wiki.mozilla.org/IRC) 
+Mozilla Foundation - The IRC Channel [Link](https://wiki.mozilla.org/IRC)
 
 Slack Channel for Group - [Chico State Mozilla](https://chicostatemozilla.slack.com)
 
