@@ -155,3 +155,24 @@ Slack Channel for Group - [Chico State Mozilla](https://chicostatemozilla.slack.
 The project reports bugs [here, using bugzilla](https://bugzilla.mozilla.org/)
 
 ## RethinkDB
+**RethinkDB**: [Developer page](https://www.rethinkdb.com/), [GitHub Repo](https://github.com/rethinkdb/rethinkdb), [Documentation](https://www.rethinkdb.com/docs/)
+
+* [Diney Wankhede](https://github.com/dineyw23) - Interested in       deploying an application which uses RethinkDB, unit testing of Ruby driver deployment on Mac OS X, documentation and resolving Ruby driver issues and JSON issues.
+*
+*
+*
+
+### Communication
+
+For updates and general communication within the group, we will subscribe to [the Slack channel](https://rethinkdb-chicostate.slack.com).
+
+RethinkDB [Slack Channel](http://slack.rethinkdb.com/).
+
+RethinkDB [IRC Channel] #rethinkdb (https://webchat.freenode.net/).
+
+For documentation or text related queries, use [Google Sheet](https://docs.google.com/a/mail.csuchico.edu/document/d/1xhe0akOSdFhYTqRnk2zKf4GVXuMCjwAc0pumST6Inbk/edit?usp=sharing)
+
+### Bug Reporting
+
+The project reports bugs [here, using GitHub Issue Tracking](https://github.com/rethinkdb/rethinkdb/issues)
+
