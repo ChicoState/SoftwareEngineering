@@ -158,9 +158,12 @@ The project reports bugs [here, using bugzilla](https://bugzilla.mozilla.org/)
 **RethinkDB**: [Developer page](https://www.rethinkdb.com/), [GitHub Repo](https://github.com/rethinkdb/rethinkdb), [Documentation](https://www.rethinkdb.com/docs/)
 
 * [Diney Wankhede](https://github.com/dineyw23) - Interested in       deploying an application which uses RethinkDB, unit testing of Ruby driver deployment on Mac OS X, documentation and resolving Ruby driver issues and JSON issues.
-*[Rohan Chordiya] (https://github.com/rchordiya) - Interested in resolving bugs and testing.
-*[Gangadhar Yelwande] (https://github.com/gyelwande) - Interested in fixing existing bugs and deployment of application of existing IDE's like Eclipse.
-*
+
+* [Rohan Chordiya] (https://github.com/rchordiya) - Interested in resolving bugs and testing.
+
+* [Gangadhar Yelwande] (https://github.com/gyelwande) - Interested in fixing existing bugs and deployment of application of existing IDE's like Eclipse.
+
+* [Amey Deshpande] (https://github.com/AmeyDeshpande) - Interested in testing and documentation, and solving some issues in the isssue list.  
 
 ### Communication
 
