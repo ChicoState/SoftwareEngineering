@@ -8,4 +8,4 @@
 ##TownHall User Stories
 
 
-As a customer, I would like to have advertise blocker in the mozilla firefox so that it will help to reduce efforts. 
+As a customer, I would like to have advertise blocker in the mozilla firefox so that it will help to reduce unnecessary stress to find compatible plugin. 
