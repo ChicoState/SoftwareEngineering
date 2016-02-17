@@ -2,7 +2,7 @@
 **Mozilla Student Contributors**
 * [Akshay Jain](https://github.com/akshjain83)
 * [Akshay Gore](http://github.com/akshaygore06)
-* [Ashwin Patil]https://github.com/Ashwin02)
+* [Ashwin Patil](https://github.com/Ashwin02)
 * [Siddharth Shah](https://github.com/siddharthshah012)
 * [kshitija karkar](https://github.com/kshitijakarkar)
 * [Arjun Arun Kumar](https://github.com/arjunarunkumar)
