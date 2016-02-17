@@ -7,6 +7,7 @@ Praveenda Reddy
 Vijay Parmar
 
 
+
 * As user I want a platform to identify pending tasks and communicate them to the team.
 * As user I want a platform to tag team-mates in tasks.
 * As user I want a platform that will update tasks as the status changes for them.
