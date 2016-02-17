@@ -7,9 +7,9 @@ Praveenda Reddy
 Vijay Parmar
 
 
-* I want a platform to identify pending tasks and communicate them to the team.
-* I want a platform to tag team-mates in tasks.
-* I want a platform that will update tasks as the status changes for them.
+* As user I want a platform to identify pending tasks and communicate them to the team.
+* As user I want a platform to tag team-mates in tasks.
+* As user I want a platform that will update tasks as the status changes for them.
 * As a user i want to log my work as a screen shot because it can give me the idea of the behaviour of the product
 * As a power user, I can specify files or folders to backup based on file size, date created and date modified.
 * As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need saved.
