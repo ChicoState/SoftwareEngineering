@@ -1,10 +1,10 @@
-Team member
-Niranjan Molkeri
-Abhinav Gupta
-Sagar Nanda
-Amit Shinde
-Praveenda Reddy
-Vijay Parmar
+Team member:
+Niranjan Molkeri,
+Abhinav Gupta,
+Sagar Nanda,
+Amit Shinde,
+Praveenda Reddy,
+Vijay Parmar.
 
 
 
