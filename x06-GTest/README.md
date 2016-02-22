@@ -10,11 +10,9 @@ Once cloned, edit **Makefile** find this line:
 
 > GTEST_DIR = /usr/local/include/gtest
 
-and change it to the directory you placed Google Test. Provide the entire path to the directory in Google Test that has the following folders/files:
+and change it to the directory you placed Google Test. Provide the entire path to the directory in Google Test that has the [following folders/files](https://github.com/google/googletest/tree/master/googletest/include/gtest):
 
-> **include**     
 > **internal**     
-> **src**     
 > gtest.h     
 > gtest-typed-test.h     
 > gtest-test-part.h     
