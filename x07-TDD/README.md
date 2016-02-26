@@ -6,18 +6,22 @@ This exercise continues from [x06 Google Test](https://github.com/ChicoState/Sof
 
 * Edit **RandoTest.cpp** and review the syntax of the tests we used for the `shouldWorry` function, which should look like:
 
-```TEST(/*ClassName*/, /*DescriptiveNameOfTest*/)
+```c++
+TEST(/*ClassName*/, /*DescriptiveNameOfTest*/)
 {
 	//declare an object of the class' type
 
 	//call the function and assert your expected outcome
-}```
+}
+```
 
 * Write **one** (and only one) test for the function `isDivisibleBy`:
 
-> /**     
-> * Determines if first or second are evenly divisible by the other.     
-> **/
+```c++
+ /**     
+  * Determines if first or second are evenly divisible by the other.     
+  **/
+```
 
 * Next, `make` the project. After it builds, run `./RandoTest`. Your test should fail (and highlight in red).
 
