@@ -5,7 +5,7 @@ This exercise continues from q02 Unit Testing
 
 * Create (and checkout) a new Git branch and call it `branchcov`
 
-* Get the updates from the (upstream) Minefield by first setting upstream: `git branch --set-upstream-to=origin/master branchcov` and then pulling
+* Get the updates from the (upstream) Minefield by first setting upstream: `git branch --set-upstream-to=origin/master branchcov` and then pulling the updates
 
 * Look over the unit tests for the `revealAdjacent()` function and see what cases have been handled. Review the function within `Field.cpp` if you want to see how the solution is implemented.
 
