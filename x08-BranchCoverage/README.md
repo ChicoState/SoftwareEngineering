@@ -3,9 +3,14 @@
 This exercise continues from q02 Unit Testing
 * Open the local directory where you cloned your fork of [Minefield](https://github.com/ChicoState/minefield).
 
-* Create (and checkout) a new Git branch and call it `branchcov`
+* Get the updates from the (upstream) Minefield and put it into a new branch called **branchcov** by using the following commands:
 
-* Get the updates from the (upstream) Minefield by first setting upstream: `git branch --set-upstream-to=origin/master branchcov` and then pulling the updates
+```
+git remote add upstream https://github.com/ChicoState/minefield.git
+git checkout -b branchcov upstream/master
+```
+
+* This creates the new branch by pulling from the upstream master branch and checks out the new branch locally
 
 * Look over the unit tests for the `revealAdjacent()` function and see what cases have been handled. Review the function within `Field.cpp` if you want to see how the solution is implemented.
 
