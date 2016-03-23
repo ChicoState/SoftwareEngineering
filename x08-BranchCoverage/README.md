@@ -38,5 +38,6 @@ branch 0 taken 99%
 * **STOP HERE AND WAIT FOR DISCUSSION**
 
 - - -
+* After we have refactored the code, you have some updates to retrieve so go to your **branchcov** branch and **fetch** from **upstream**
 
-* Now that you have a better understanding of how to read the results of gcov's branch coverage, continue testing until you have tested all the branches for revealAdjacent(). Upload your Field.cpp.gcov on Blackboard for x08.
+* Now that you have a better understanding of how to read the results of gcov's branch coverage, continue testing until you have tested all the branches for revealAdjacent(). *For this exercise, you may disregard the branches in the constructor.* Upload your **Field.cpp.gcov** on Blackboard for x08.
