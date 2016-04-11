@@ -12,7 +12,11 @@ In this exercise, we will set up and start exploring a static analysis tool pack
 
 3. * If you are using sh, ksh, or bash shell, type the command: `export PATH=$PATH:/usr/local/checker-278/bin` but replace `/usr/local/checker-278/bin` with the location of where the static analyzer was installed, followed by `/bin` since that is where the binary (executable) files are
 
-###For 'nix: You will have to first download and build Clang and LLVM by following [these directions](http://clang.llvm.org/get_started.html#build). Once you are done, follow the instructions to [build the analyzer from source](http://clang-analyzer.llvm.org/installation#OtherPlatforms).
+###For 'nix: 
+
+1. You will have to first download and build Clang and LLVM by following [these directions](http://clang.llvm.org/get_started.html#build). 
+
+2. Once you are done, follow the instructions to [build the analyzer from source](http://clang-analyzer.llvm.org/installation#OtherPlatforms).
 
 ##Running scan-build
 
