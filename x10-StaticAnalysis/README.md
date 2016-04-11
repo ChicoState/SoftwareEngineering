@@ -10,7 +10,7 @@ In this exercise, we will set up and start exploring a static analysis tool pack
 
 2. After fully downloaded, I recommend then extracting the files from the tarball (checker-278.tar.bz2) as a new directory in your `/usr/local` folder, such as `/usr/local/checker`
 
-3. * If you are using sh, ksh, or bash shell, type the command: `export PATH=$PATH:/usr/local/checker-278/bin` but replace `/usr/local/checker-278/bin` with the location of where the static analyzer was installed, followed by `/bin` since that is where the binary (executable) files are
+3. If you are using sh, ksh, or bash shell, type the command: `export PATH=$PATH:/usr/local/checker-278/bin` but replace `/usr/local/checker-278/bin` with the location of where the static analyzer was installed, followed by `/bin` since that is where the binary (executable) files are
 
 ###For 'nix: 
 
