@@ -30,4 +30,14 @@ In this exercise, we will set up and start exploring a static analysis tool pack
 
 * Once run, it should take a moment to analyze the code. Does it identify any bugs? What does the scan-build output results means?
 
+##Exploring bug types
 
+* Navigate to your Minefield project (from x09) or make a new clone of the [github repo](https://github.com/ChicoState/minefield) so you have it locally
+
+* Run scan-build on the Minefield project and confirm that it has no bugs found
+
+* Read over the different checks that the scan-build static analyzer [available checks](http://clang-analyzer.llvm.org/available_checks.html).
+
+* Within the Field class, try to create a bug as described by one of the available checks. *However*, don't just use the example code the documentation provides. Instead, try to incorporate one of those **types** of errors into the Field.cpp file so that if someone else looked at the code they might not immediately recognize the bug. Try to make a bug but "hide" it in a clever way.
+
+* Once you've created a "hidden bug," run scan-build on the project and make sure it identifies the bug that you think it should.
