@@ -26,14 +26,14 @@ As a team, you will study one other area in software testing to teach the rest o
 
 ## Review and Discussion
 
-1) In the ConnectX example, a function had a bug only in the situation where *both* the width was invalid *and* the height was valid. What is the name for this sort of situation? Why?
+1. In the ConnectX example, a function had a bug only in the situation where *both* the width was invalid *and* the height was valid. What is the name for this sort of situation? Why?
 
-2) Draw a diagram that represents the relationship between *unit*, *integration*, and *system* testing.
+2. Draw a diagram that represents the relationship between *unit*, *integration*, and *system* testing.
 
-3) Using the software testing vocabulary learned in this lesson, describe the benefits specific to **automating** unit tests.
+3. Using the software testing vocabulary learned in this lesson, describe the benefits specific to **automating** unit tests.
 
-4) Mutation Testing may change boolean comparison operators (e.g. less-than, equal-to, etc) to create mutants. What type of testing strategy should developers take to make sure their tests "kill" those mutants?
+4. Mutation Testing may change boolean comparison operators (e.g. less-than, equal-to, etc) to create mutants. What type of testing strategy should developers take to make sure their tests "kill" those mutants?
 
-5) In the software development process, when do you think *acceptance testing* should be conducted with respect to Alpha and Beta testing? Why?
+5. In the software development process, when do you think *acceptance testing* should be conducted with respect to Alpha and Beta testing? Why?
 
-6) Review each type of testing listed in this vocabulary list; for each one, describe whether you think it should (or must!) be performed as *White box* or *Black box* testing. Explain why.
+6. Review each type of testing listed in this vocabulary list; for each one, describe whether you think it should (or must!) be performed as *White box* or *Black box* testing. Explain why.
