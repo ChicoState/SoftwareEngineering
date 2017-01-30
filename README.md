@@ -16,8 +16,8 @@ Kevin Buffardi [email kbuffardi@csuchico.edu](mailto:kbuffardi@csuchico.edu)
 
 **Office Hours**
 OCNL 220
-Monday 1:30 - 4:00pm
-Tuesday 1:30 - 4:00pm
+Monday 1:00 - 3:00pm
+Tues-/Thursday 2:00 - 3:30pm
 
 ### Required Materials
 
