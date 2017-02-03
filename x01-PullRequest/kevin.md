@@ -1,6 +1,8 @@
 #Kevin Buffardi
-**Professor**
+*Professor*
 
-**Interests** Software testing, human-computer interaction, educational technology
+**Interests** 
+Software testing, human-computer interaction, educational technology
 
-**Experience** Usability consultant, instructor, researcher
+**Experience** 
+Usability consultant, instructor, researcher
