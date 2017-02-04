@@ -1,4 +1,10 @@
-###Meet the class
+#Tanay Khandke
+*Student*
 
-Tanay Kedar Khandke [email tkhandke@csuchico.edu](mailto:tkhandke@csuchico.edu)
+##Interests
 
+hadoop,pig,hive,spark,
+
+##Experience
+
+academic projects
