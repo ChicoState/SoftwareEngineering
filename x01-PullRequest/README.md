@@ -2,6 +2,8 @@
 
 * [Kevin Buffardi](kevin.md) **Professor**
 
+* [Aditya Joshi](aditya.md) **Student**
+
 * [Ernest Premkumar](ernest.md) **Student**
 
 * [Pinak Das](Pinak.md) **Student**
