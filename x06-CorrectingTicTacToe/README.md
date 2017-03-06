@@ -22,7 +22,7 @@ For some insight into your previous work, you have been provided with two files:
 
 ## Turning in your work
 
-Your work is due by the end of the class period. Make sure that `make` will build your project without errors (warnings are okay).
+Your work is due by the end of the day, before midnight. Make sure that `make` will build your project without errors (warnings are okay).
 
 Use git to add and commit both your implementation and tests.
 
