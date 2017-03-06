@@ -6,9 +6,9 @@ For this exercise, you will continue with the code you have previously written f
 
 * Launch the Testing VM and navigate into the TicTacToeBoard folder
 
-* git remote rm upstream
+* `git remote rm upstream`
 
-* git remote add upstream https://github.com/YourUsername/x06-FullName.git *(but replace YourUsername and FullName, accordingly)*
+* `git remote add upstream https://github.com/YourUsername/x06-FullName.git` *(but replace YourUsername and FullName, accordingly)*
 
 ## Correcting Tic Tac Toe
 
