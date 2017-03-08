@@ -31,3 +31,9 @@ This quiz should be done independently without communication with anyone else. Y
 * Any changes pushed after the deadline will be considered late work and will result in penalties  
 
 * **DUE Monday, March 20th by 11 AM**
+
+##Rubric
+
+* 25% Each of the five functions behaves as expected
+* 25% Best practices -- as discussed in class -- for unit testing are followed and directions are followed precisely
+* 50% Tests correctly pass for any correct implementations and fail any misbehaving functions
