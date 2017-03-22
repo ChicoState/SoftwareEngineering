@@ -1,10 +1,10 @@
-#Quiz 02: Unit Testing
+# Quiz 02: Unit Testing
 
 For this practical quiz, you will implement and test a class by applying what you learned in class to thoroughly unit test to verify your implementation.
 
 This quiz should be done independently without communication with anyone else. You are expected to keep quiet about the assignment and protect your work until otherwise instructed by the professor.
 
-##Getting started
+## Getting started
 
 * Clone (**DO NOT FORK**) [ChicoState / Piezas](https://github.com/ChicoState/Piezas) within your Testing VM
 
@@ -14,13 +14,13 @@ This quiz should be done independently without communication with anyone else. Y
 
 * After cloning the repo, add your remote: `git remote add origin https://github.com/username/q02-name.git` by changing the username and name accordingly
 
-##Test and Implement
+## Test and Implement
 
 * Follow the documentation in the repo's README to test and implement the *Piezas* game that I made up
 
 * If you have questions, email the instructor
 
-##Turning in work
+## Turning in work
 
 * Commit all source code that you have edited *but no other files*
 
@@ -32,7 +32,7 @@ This quiz should be done independently without communication with anyone else. Y
 
 * **DUE Monday, March 20th by 11 AM**
 
-##Rubric
+## Rubric
 
 * 25% Each of the five functions behaves as expected
 * 25% Best practices -- as discussed in class -- for unit testing are followed and directions are followed precisely
