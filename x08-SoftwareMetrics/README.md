@@ -8,7 +8,7 @@ You will be allowed an entire lecture to deliver your lesson, so it may take up 
 
 **Friday, April 7** [Cyclomatic Complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) - Team:
 
-**Monday, April 10** [Halstead Complexity](https://en.wikipedia.org/wiki/Halstead_complexity_measures) - Team:
+**Monday, April 10** [Halstead Complexity](https://en.wikipedia.org/wiki/Halstead_complexity_measures) - Team:Tanay Khandke
 
 **Wednesday, April 12** [Cohesion](http://www.aivosto.com/project/help/pm-oo-cohesion.html) - Team: Aditya M. Joshi, Mohit Athwani
 
