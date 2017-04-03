@@ -12,4 +12,4 @@ You will be allowed an entire lecture to deliver your lesson, so it may take up 
 
 **Wednesday, April 12** [Cohesion](http://www.aivosto.com/project/help/pm-oo-cohesion.html) - Team:
 
-**Friday, April 14** [Function points](https://en.wikipedia.org/wiki/Function_point) - Team: 
+**Friday, April 14** [Function points](https://en.wikipedia.org/wiki/Function_point) - Team: Jayesh Tambe, Pinak Das
