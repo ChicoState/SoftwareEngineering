@@ -6,7 +6,7 @@ You will be allowed an entire lecture to deliver your lesson, so it may take up 
 
 ## Schedule
 
-**Friday, April 7** [Cyclomatic Complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) - Team:
+**Friday, April 7** [Cyclomatic Complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) - Team: Ernest & Tyler
 
 **Monday, April 10** [Halstead Complexity](https://en.wikipedia.org/wiki/Halstead_complexity_measures) - Team: Tanay Khandke & Michael Gonsalves
 
