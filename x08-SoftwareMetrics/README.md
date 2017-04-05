@@ -6,10 +6,10 @@ You will be allowed an entire lecture to deliver your lesson, so it may take up 
 
 ## Schedule
 
-**Friday, April 7** [Cyclomatic Complexity](http://staff.unak.is/andy/StaticAnalysis0809/metrics/cyclomatic_complexity.html) - Team:
+**Friday, April 7** [Cyclomatic Complexity](http://staff.unak.is/andy/StaticAnalysis0809/metrics/cyclomatic_complexity.html) - Team: Ernest & Tyler
 
-**Monday, April 10** [Halstead Complexity](https://en.wikipedia.org/wiki/Halstead_complexity_measures) - Team: 
+**Monday, April 10** [Halstead Complexity](https://en.wikipedia.org/wiki/Halstead_complexity_measures) - Team: Tanay Khandke & Michael Gonsalves
 
-**Wednesday, April 12** [Cohesion](http://www.aivosto.com/project/help/pm-oo-cohesion.html) - Team:
+**Wednesday, April 12** [Cohesion](http://www.aivosto.com/project/help/pm-oo-cohesion.html) - Team: Aditya M. Joshi, Mohit Athwani
 
-**Friday, April 14** [Function points](https://en.wikipedia.org/wiki/Function_point) - Team: 
+**Friday, April 14** [Function points](https://en.wikipedia.org/wiki/Function_point) - Team: Jayesh Tambe & Pinak Das

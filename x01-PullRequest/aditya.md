@@ -5,4 +5,4 @@
 Software Development, Product/Project Management
 
 ##Experience
-Project Manager, Graduate Assistant
+Project Manager, Graduate Assistant, Research Intern
