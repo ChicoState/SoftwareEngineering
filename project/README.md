@@ -23,8 +23,8 @@
 
 **Major**
 
-* [Created a TOTP secret backend] (https://github.com/hashicorp/vault/pull/2492)
+* Created a TOTP secret backend - https://github.com/hashicorp/vault/pull/2492
 
 **Minor**
 
-* [Website documentation for TOTP secret backend] (https://www.vaultproject.io/docs/secrets/totp/index.html)
+* Website documentation for TOTP secret backend - https://www.vaultproject.io/docs/secrets/totp/index.html
