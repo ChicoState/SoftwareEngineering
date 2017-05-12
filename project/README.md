@@ -15,7 +15,19 @@
 
 ## React
 
-## Swift
+## Swift   
+[Tanay Khandke](https://github.com/tkhandke)
+
+**Major**
+
+* Documentation - https://github.com/tkhandke/swift_doc
+
+**Minor**
+
+* research
+* unit testing
+* bugs tracking
+
 
 ## Vault
 
