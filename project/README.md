@@ -20,8 +20,8 @@
 
 **Major**
 
-* Documentation
-* tips for swift unit testing on linux - https://github.com/tkhandke/swift_doc
+* Documentation -   
+tips for swift unit testing on linux - https://github.com/tkhandke/swift_doc
 
 **Minor**
 
