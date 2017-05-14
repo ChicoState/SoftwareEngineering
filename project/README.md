@@ -22,7 +22,7 @@
 
 **Minor**
 
-* [Documentation for setting up react environment on ubuntu machine]
+* [Documentation for setting up react environment on ubuntu machine in wiki page](https://github.com/facebook/react/wiki)
 Following are commit hashes for the same.
 commit 742578577ba878def17cff8fadcb3f050c83323b
 Author: Jayesh Tambe <tambe_jayesh@hotmail.com>
