@@ -24,6 +24,17 @@
 
 * [I had added documentation for setting up react environment on ubuntu machine](That link is no longer in the repo)
 
+[Aditya Joshi](https://github.com/amjoshi91)
+
+**Major**
+Wrote documentation for new React contributors on how to get their system setup
+[Link](https://github.com/facebook/react/pull/9444)
+
+**Minor**
+While testing, I found a potential bug and reported it
+[Link](https://github.com/facebook/react/issues/9564)
+
+
 
 ## Swift
 [Mohit Athwani](https://github.com/mohitathwani)
