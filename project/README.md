@@ -14,6 +14,26 @@
 
 
 ## React
+[Jayesh Tambe](https://github.com/jtambe)
+
+**Major**
+
+* [Developed example code for DOM manipulation using react](https://github.com/facebook/react/pull/9683)
+
+**Minor**
+
+* [Documentation for setting up react environment on ubuntu machine in wiki page](https://github.com/facebook/react/wiki)
+Following are commit hashes for the same.
+commit 742578577ba878def17cff8fadcb3f050c83323b
+Author: Jayesh Tambe <tambe_jayesh@hotmail.com>
+Date:   Tue Feb 21 22:57:05 2017 -0800
+    Environment set up for Ubuntu 16.04.2 LTS
+commit e8fc629612976ed7757d9eddb13ac8bc90cd7f12
+Author: Jayesh Tambe <tambe_jayesh@hotmail.com>
+Date:   Tue Feb 21 22:55:49 2017 -0800
+    Environment set up for Ubuntu 16.04.2 LTS
+
+
 [Aditya Joshi](https://github.com/amjoshi91)
 
 **Major**
@@ -23,6 +43,7 @@ Wrote documentation for new React contributors on how to get their system setup
 **Minor**
 While testing, I found a potential bug and reported it
 [Link](https://github.com/facebook/react/issues/9564)
+
 
 
 ## Swift
@@ -47,3 +68,4 @@ While testing, I found a potential bug and reported it
 **Minor**
 
 * Website documentation for TOTP secret backend - https://www.vaultproject.io/docs/secrets/totp/index.html
+
