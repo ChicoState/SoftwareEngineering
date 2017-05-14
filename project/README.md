@@ -22,7 +22,17 @@
 
 **Minor**
 
-* [I had added documentation for setting up react environment on ubuntu machine](That link is no longer in the repo)
+* [Documentation for setting up react environment on ubuntu machine]
+Following are commit hashes for the same.
+commit 742578577ba878def17cff8fadcb3f050c83323b
+Author: Jayesh Tambe <tambe_jayesh@hotmail.com>
+Date:   Tue Feb 21 22:57:05 2017 -0800
+    Environment set up for Ubuntu 16.04.2 LTS
+commit e8fc629612976ed7757d9eddb13ac8bc90cd7f12
+Author: Jayesh Tambe <tambe_jayesh@hotmail.com>
+Date:   Tue Feb 21 22:55:49 2017 -0800
+    Environment set up for Ubuntu 16.04.2 LTS
+
 
 [Aditya Joshi](https://github.com/amjoshi91)
 
