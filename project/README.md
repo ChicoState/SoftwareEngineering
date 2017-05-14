@@ -14,6 +14,16 @@
 
 
 ## React
+[Jayesh Tambe](https://github.com/jtambe)
+
+**Major**
+
+* [Developed example code for DOM manipulation using react](https://github.com/facebook/react/pull/9683)
+
+**Minor**
+
+* [Documentation for setting up react environment on ubuntu machine in wiki page](https://github.com/facebook/react/wiki)
+
 [Aditya Joshi](https://github.com/amjoshi91)
 
 **Major**
@@ -23,6 +33,7 @@ Wrote documentation for new React contributors on how to get their system setup
 **Minor**
 While testing, I found a potential bug and reported it
 [Link](https://github.com/facebook/react/issues/9564)
+
 
 
 ## Swift
