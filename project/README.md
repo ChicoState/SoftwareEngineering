@@ -14,6 +14,16 @@
 
 
 ## React
+[Jayesh Tambe](https://github.com/jtambe)
+
+**Major**
+
+* [Developed example code for DOM manipulation using react](https://github.com/facebook/react/pull/9683)
+
+**Minor**
+
+* [I had added documentation for setting up react environment on ubuntu machine](That link is no longer in the repo)
+
 
 ## Swift
 [Mohit Athwani](https://github.com/mohitathwani)
@@ -37,3 +47,4 @@
 **Minor**
 
 * Website documentation for TOTP secret backend - https://www.vaultproject.io/docs/secrets/totp/index.html
+
