@@ -69,3 +69,13 @@ While testing, I found a potential bug and reported it
 
 * Website documentation for TOTP secret backend - https://www.vaultproject.io/docs/secrets/totp/index.html
 
+[Tyler Nash](https://github.com/lemondrank)
+
+**Major**
+
+* Removed recursion from token store policy and wrote verification tests - https://github.com/hashicorp/vault/pull/2478
+
+**Minor**
+
+* None
+
