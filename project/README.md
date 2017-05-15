@@ -49,9 +49,9 @@ While testing, I found a potential bug and reported it
 
 **Major**
 * Wrote answers to React core functionality questions raised by users as issue in Github. I provided a detailed explanation about the functionalities
-with use cases and example code.
-[Link](https://github.com/facebook/react/issues/9621)  
-[Link](https://github.com/facebook/react/issues/9681)
+with use cases and example code.  
+https://github.com/facebook/react/issues/9621  
+https://github.com/facebook/react/issues/9681
 
 **Minor**
 * Found bug while testing, reported it.
