@@ -45,6 +45,19 @@ While testing, I found a potential bug and reported it
 [Link](https://github.com/facebook/react/issues/9564)
 
 
+[Pinak Das](https://github.com/pinakdas163)
+
+**Major**
+* Wrote answers to React core functionality questions raised by users as issue in Github. I provided a detailed explanation about the functionalities
+with use cases and example code.  
+https://github.com/facebook/react/issues/9621  
+https://github.com/facebook/react/issues/9681
+
+**Minor**
+* Found bug while testing, reported it.
+[Link](https://github.com/facebook/react/issues/9025)  
+* Made pull request to solve a semantics error in one of the test suites
+[Link](https://github.com/facebook/react/pull/9200)
 
 ## Swift
 [Mohit Athwani](https://github.com/mohitathwani)
