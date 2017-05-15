@@ -92,3 +92,12 @@ https://github.com/facebook/react/issues/9681
 
 * None
 
+[Ernest Premkumar Rajamedison](https://github.com/ernestpremkumar)
+
+**Major**
+
+* Added a feature to allow users to add metadata during user creation to use Vault tokens for auth/authz for external services.  - https://github.com/hashicorp/vault/pull/2731
+
+**Minor**
+
+* None
