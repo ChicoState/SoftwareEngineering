@@ -1,4 +1,4 @@
-# SoftwareEngineering
+# Software Engineering
 
 This repository includes material for Chico State's graduate software engineering class, CSCI 630
 
